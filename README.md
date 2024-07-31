@@ -24,7 +24,7 @@
 - :hourglass_flowing_sand: Explorando o universo das APIs REST e JSON, além de aprimorar minhas habilidades em soluções de software.
 - :rocket: Sempre pronto para colaborar em projetos desafiadores e experimentos de desenvolvimento.
 - :man_technologist: Experiência significativa como Analista de Suporte e Desenvolvedor de Software na HSF Software.
-- :dart: Life Hack: Dica de Vida: "Explore :fire: e exploda :bomb: com conhecimento"
+- :dart: Dica de Vida: "Explore :fire: e exploda :bomb: com conhecimento"
 - :trophy: Com 7 anos de experiência na HSF Software, desempenhei papéis cruciais no desenvolvimento e manutenção de sistemas.
 
 
